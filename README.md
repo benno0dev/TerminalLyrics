@@ -32,3 +32,8 @@ There should now be lyrics from your song playing on spotify. (sometimes, it may
   I already have plans to make an 'import lyrics' feature, so the process to get the lyrics are faster and you can override wrong lyrics, but I have no idea when to implement this.
 - I coded the current version on a friday evening, so there might be things that are buggy or can be improved (making it take less resources for example)
 - If you have any problems or so you can contact me on twitter and discord https://benno.nekoweb.org/contact/
+
+## Todo:
+- [] import lyrics from local file
+- [] console window gets cleared when a new song starts (currently only gets cleared when a song ends, so when skipping a song the console doesn't get cleared)
+- [] more stuff i can't think of right now
